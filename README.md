@@ -1,6 +1,6 @@
 # ALMA-DEV914
 Hi there 👋 Alma here! I'm open for work. <br>
-I am passionate about arts, good srvices and great user-experienced.<br> 
+I am passionate about arts, good services and great user-experienced.<br> 
 I am expertise in HTML, CS and React.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=alma-dev914&count_private=true&theme=tokyonight&showicons=true)]()
